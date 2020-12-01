@@ -1,4 +1,4 @@
-# Matplotlib - The Power of Plots
+#The Power of Plots
 
 ## Background
 ![Laboratory](Images/Laboratory.jpg)
@@ -10,6 +10,8 @@ Take Aways
 #1- Capomulin and Ramicane reduces the size of tumors better then others.
 
 #2- As mice weight increases; aveger tumor volume also increases.
+
+#3- 
 
 
 
