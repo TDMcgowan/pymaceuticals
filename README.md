@@ -11,7 +11,7 @@ Take Aways
 
 #2- As mice weight increases; aveger tumor volume also increases.
 
-#3- 
+#3- Male and Female mice were study almost evenly 124 female to 125 male. 
 
 
 
